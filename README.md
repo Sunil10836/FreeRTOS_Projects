@@ -52,3 +52,9 @@ Controller Task      Timer Callback
                             |
                             v
                            UART
+```
+## Project Requirements
+1. STM32CubeIDE
+2. STM32F446RE Nucleo Board
+3. FreeRTOS
+4. UART terminal (PuTTY/TeraTerm)
